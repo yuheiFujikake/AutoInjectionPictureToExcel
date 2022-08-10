@@ -1,0 +1,2 @@
+# AutoInjectionPictureToExcel
+Excelに大量の画像を挿入するツール
